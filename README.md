@@ -1,8 +1,5 @@
 ### Hello 👋, I am Elena Kozyreva
 
-<!--
-**TozurElena/TozurElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a FrontEnd Developer
 - I like to write code
 - I am constantly learning new things
@@ -13,6 +10,11 @@
 <br/>
 
 ### Langages and Tools:
+
+<!--
+**TozurElena/TozurElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 - 🔭 I’m currently working on ...
