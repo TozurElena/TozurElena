@@ -1,6 +1,6 @@
-### Hello 👋, I am Elena Kozyreva
+## Hello 👋, I am Elena Kozyreva
 
-## I'm a FrontEnd Developer
+### I'm a FrontEnd Developer
 - I like to write code
 - I am constantly learning new things
 
