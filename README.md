@@ -15,9 +15,9 @@
 
 <details>
   <sumary>:zap: Statistics:</sumary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact&show_icons=true"/>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena&show_icons=true"/>
   <br/>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena"/>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
 </details>
   
 
