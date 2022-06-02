@@ -5,7 +5,7 @@
 - I am constantly learning new things
 
 ### Connect with me: 
-[<img align="left" alt="ElenaKozyreva | LinkedIn" width="22px" src=""/>][linkedin]
+<!-- [<img align="left" alt="ElenaKozyreva | LinkedIn" width="22px" src=""/>][linkedin] -->
 
 <br/>
 
