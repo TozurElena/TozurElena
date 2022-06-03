@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: Statistics:</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
-  <img align="left" alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TozurElena&layout=compact"/>
+  [![wakatime](https://wakatime.com/badge/user/ac62b661-be76-43e3-bb10-df8110796892.svg)](https://wakatime.com/@ac62b661-be76-43e3-bb10-df8110796892)
   <br/>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena&show_icons=true"/>
 </details>
