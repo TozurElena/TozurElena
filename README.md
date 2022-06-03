@@ -29,10 +29,11 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <br/>
 </p>
 
+ [![wakatime](https://wakatime.com/badge/user/ac62b661-be76-43e3-bb10-df8110796892.svg)](https://wakatime.com/@ac62b661-be76-43e3-bb10-df8110796892)
 <details>
   <summary>:zap: Statistics:</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
-  [![wakatime](https://wakatime.com/badge/user/ac62b661-be76-43e3-bb10-df8110796892.svg)](https://wakatime.com/@ac62b661-be76-43e3-bb10-df8110796892)
+  
   <br/>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena&show_icons=true"/>
 </details>
