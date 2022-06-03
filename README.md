@@ -1,8 +1,10 @@
 ## Hello 👋, I am Elena Kozyreva
 ![](https://komarev.com/ghpvc/?username=TozurElena)
+
 ### I'm a FrontEnd Developer
-- I like to write code
-- I am constantly learning new things
+
+- 🔭 I like to write code
+- 🌱 I am constantly learning new things
 
 ### Connect with me: 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://)
