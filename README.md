@@ -7,7 +7,7 @@
 - 🌱 I am constantly learning new things
 
 ### Connect with me: 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tozurelena.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-kozyreva-dev/)
 <!-- [<img align="left" alt="ElenaKozyreva | LinkedIn" width="22px" src=""/>][linkedin] -->
 
