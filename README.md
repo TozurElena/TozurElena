@@ -1,5 +1,4 @@
 ## Hello 👋, I am Elena Kozyreva
-![](https://komarev.com/ghpvc/?username=TozurElena)
 
 ### I'm a FrontEnd Developer
 
@@ -30,6 +29,7 @@
 </p>
 
  [![wakatime](https://wakatime.com/badge/user/ac62b661-be76-43e3-bb10-df8110796892.svg)](https://wakatime.com/@ac62b661-be76-43e3-bb10-df8110796892)
+ ![](https://komarev.com/ghpvc/?username=TozurElena)
 <details>
   <summary>:zap: Statistics:</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
