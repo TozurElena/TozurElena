@@ -14,7 +14,7 @@
 ### Langages and Tools:
 
 <details>
-  <sunmary>:zap: Statistics:</sunmary>
+  <summary>:zap: Statistics:</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena&show_icons=true"/>
   <br/>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
