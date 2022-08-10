@@ -36,8 +36,8 @@
  ![](https://komarev.com/ghpvc/?username=TozurElena)
 <details>
   <summary>:zap: Statistics:</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaKozyreva&layout=compact"/>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElenaKozyreva&show_icons=true"/>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TozurElena&layout=compact"/>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TozurElena&show_icons=true"/>
 </details>
   
 
